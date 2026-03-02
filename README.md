@@ -33,6 +33,6 @@ To demonstrate the practical use of the trained model, I developed a standalone 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/AdamOl3/Traffic-signs-classification.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Launch the notebook in `src/` to see the training process or run the application to test the model.
+3. Launch the Jupyter Notebook in `src/TrafficSigns_PSI.ipynb` to see the full data preprocessing, model training, and evaluation process.
 
-
+*Note: The standalone desktop application (.exe) shown in the screenshots was built for deployment demonstration and is not included in the source repository.*
