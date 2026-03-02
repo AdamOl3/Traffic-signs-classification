@@ -26,9 +26,9 @@ To demonstrate the practical use of the trained model, I developed a standalone 
 * **Standalone Execution:** Built as an executable (.exe) for Windows.
 
 ### Interface Preview
-![App Screenshot 1](app1.png)
-![App Screenshot 2](app2.png)
-![App Screenshot 3](app3.png)
+![App Screenshot 1](screenshots/app1.png)
+![App Screenshot 2](screenshots/app2.png)
+![App Screenshot 3](screenshots/app3.png)
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/AdamOl3/Traffic-signs-classification.git`
